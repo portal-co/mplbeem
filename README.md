@@ -1,13 +1,14 @@
 # mplbeem
 
 ## Description
-Project mplbeem
+A tool to sync/check MPL-licensed projects, likely ensuring license header compliance.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Check/Fix MPL license headers
+- [ ] Traverse directories (`walkdir`)
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
